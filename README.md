@@ -7,4 +7,5 @@ This script was created by Idan Malihi.
 *** This script has to be run as root privileges!!!! ***
 
 Using:
+
 ./run <domain>
